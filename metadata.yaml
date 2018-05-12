@@ -1,11 +1,16 @@
 _repo: The-Riddle-of-the-Rhine--chemical-strategy-in-peace-and-war_1272
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Lefebure, Victor
     gutenberg_agent_id: '580'
     url: http://www.gutenberg.org/2009/agents/580
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1272#The-Riddle-of-the-Rhine--chemical-strategy-in-peace-and-war
 gutenberg_bookshelf: World War I
 gutenberg_issued: '1998-04-01'
 gutenberg_type: Text
